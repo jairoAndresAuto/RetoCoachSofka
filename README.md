@@ -14,7 +14,7 @@ Pre-requisitos del PC:
 - Instalar IntelliJ IDEA: https://www.jetbrains.com/help/idea/installation-guide.html#standalone
 - Instalar Cucumber en IntelliJ IDEA: https://sodocumentation.net/cucumber/topic/8356/install-cucumber-plugin-in-intellij
 
-Para entender mejor el concepto de ScreenPlay y es su estructura, se dejan como base las siguiente lecturas:
+Para entender mejor el concepto de ScreenPlay y es su estructura, se dejan como base las siguientes lecturas:
 
 - Cucumber: https://cucumber.io/docs/gherkin/reference/ 
 - Screnplay: https://medium.com/@marcela.soto/automatizaci%C3%B3n-de-pruebas-funcionales-serenity-bdd-screen-play-java-942be8217fca
