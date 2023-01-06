@@ -5,9 +5,10 @@ Reto Técnico ScreenPlay
 
 Hola buenos dias,
 
-Este sera un reto tecnico donde podrás demostrar la destresa y el conocimiento sobre el desarrollo de software. Para el cual deberan seguir las siguientes instrucciones:
+Este sera un reto tecnicotiene como objetivo desarrollar las habilidades que tiene cada uno en el desarrollo de software y las pueda enforaca al mundo de las pruebas automatizadas, para ello cuentan con las siguienes URL´S que les ayudara a enterder el tema de la mejor forma.
 
-Pre-requisitos:
+Pre-requisitos del PC:
+
 Instalar JDK: https://www.campusmvp.es/recursos/post/Paso-a-paso-como-instalar-el-JDK-de-Java-para-empezar-a-programar.aspx - Instalar IntelliJ IDEA: https://www.jetbrains.com/help/idea/installation-guide.html#standalone - Instalar Cucumber en IntelliJ IDEA: https://sodocumentation.net/cucumber/topic/8356/install-cucumber-plugin-in-intellij
 
 Como para entender mejor el concepto de ScreenPlay y como es su estructura, se dejan como base las siguiente lecturas:
