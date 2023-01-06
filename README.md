@@ -17,7 +17,7 @@ Cucumber: https://cucumber.io/docs/gherkin/reference/ - Screnplay: https://mediu
 
 Taller
 
-Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba.Realizar una automatización que valide el total de los elementos agregados, para validar que se este sumando de manera correcta en la pagina, teniendo en cuenta las lecturas propuesta anteriormente.
+Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba. Realizar una automatización que valide el total de los elementos agregados, para validar que se este sumando de manera correcta en la pagina, teniendo en cuenta las lecturas propuesta anteriormente.
 
 Prerequisito: Crear usuario
 
