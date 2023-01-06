@@ -5,7 +5,7 @@ Reto Técnico ScreenPlay
 
 Hola buenos dias,
 
-Este sera un reto tecnico donde tendras que demostrar la destresa y el conocimiento sobre el desarrollo de software. Para el cual deberan seguir las siguientes instrucciones:
+Este sera un reto tecnico donde podrás demostrar la destresa y el conocimiento sobre el desarrollo de software. Para el cual deberan seguir las siguientes instrucciones:
 
 Pre-requisitos:
 Instalar JDK: https://www.campusmvp.es/recursos/post/Paso-a-paso-como-instalar-el-JDK-de-Java-para-empezar-a-programar.aspx - Instalar IntelliJ IDEA: https://www.jetbrains.com/help/idea/installation-guide.html#standalone - Instalar Cucumber en IntelliJ IDEA: https://sodocumentation.net/cucumber/topic/8356/install-cucumber-plugin-in-intellij
