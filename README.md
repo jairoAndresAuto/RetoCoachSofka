@@ -5,7 +5,9 @@ Reto Técnico ScreenPlay
 
 Hola buenos dias,
 
-Este sera un reto tecnicotiene como objetivo desarrollar las habilidades que tiene cada uno en el desarrollo de software y las pueda enforaca al mundo de las pruebas automatizadas, para ello cuentan con las siguienes URL´S que les ayudara a enterder el tema de la mejor forma.
+Este sera un reto tecnicotiene como objetivo desarrollar las habilidades que tiene cada uno en el desarrollo de software y las pueda enfor al mundo de las pruebas automatizadas, para ello cuentan con las siguientes URL´ s que les ayudará a entender el tema de la mejor forma.
+
+
 
 Pre-requisitos del PC:
 
@@ -18,7 +20,7 @@ Cucumber: https://cucumber.io/docs/gherkin/reference/ - Screnplay: https://mediu
 
 TALLER
 
-Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba. Realizar una automatización que valide el total de los elementos agregados, para validar que se este sumando de manera correcta en la pagina, teniendo en cuenta las lecturas propuesta anteriormente.
+Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba. Realizar una automatización que valide el total de los elementos agregados, validando que se este sumando de manera correcta en el front. Las lecturas propuestas anteriormente, son vitales para el desarrollo correcto de la actividad.
 
 Pre-requisito: Crear usuario
 
