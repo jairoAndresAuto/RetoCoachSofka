@@ -22,7 +22,7 @@ Para entender mejor el concepto de ScreenPlay y es su estructura, se dejan como 
 
 TALLER
 
-Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba. Realizar una automatización que valide el total de los elementos agregados, validando que se este sumando de manera correcta en el front. Las lecturas propuestas anteriormente, son vitales para el desarrollo correcto de la actividad.
+Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/" se debe realizar el siguiente caso de prueba. Realizar una automatización que valide el total de los elementos agregados, validando que se este sumando los totales de los productos agregados de manera correcta en el front. Las lecturas propuestas anteriormente, son vitales para el desarrollo correcto de la actividad.
 
 Pre-requisito: Crear usuario
 
