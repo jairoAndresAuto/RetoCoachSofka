@@ -5,7 +5,7 @@ Reto Técnico ScreenPlay
 
 Hola buenos dias,
 
-Este sera un reto que tiene por objetivo desarrollar las habilidades que tiene cada uno en el desarrollo de software y las pueda enfor al mundo de las pruebas automatizadas, para ello cuentan con las siguientes URL´ s que les ayudará a entender el tema de una mejor manera.
+Este sera un reto que tiene por objetivo desarrollar las habilidades que tiene cada uno en el desarrollo de software y las pueda enfor al mundo de las pruebas automatizadas, para ello cuentan con las siguientes URL's que les ayudará a entender el tema de una mejor manera.
 
 
 Pre-requisitos del PC:
