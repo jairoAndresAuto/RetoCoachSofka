@@ -10,7 +10,9 @@ Este sera un reto que tiene por objetivo desarrollar las habilidades que tiene c
 
 Pre-requisitos del PC:
 
-Instalar JDK: https://www.campusmvp.es/recursos/post/Paso-a-paso-como-instalar-el-JDK-de-Java-para-empezar-a-programar.aspx - Instalar IntelliJ IDEA: https://www.jetbrains.com/help/idea/installation-guide.html#standalone - Instalar Cucumber en IntelliJ IDEA: https://sodocumentation.net/cucumber/topic/8356/install-cucumber-plugin-in-intellij
+- Instalar JDK: https://www.campusmvp.es/recursos/post/Paso-a-paso-como-instalar-el-JDK-de-Java-para-empezar-a-programar.aspx 
+- Instalar IntelliJ IDEA: https://www.jetbrains.com/help/idea/installation-guide.html#standalone
+- Instalar Cucumber en IntelliJ IDEA: https://sodocumentation.net/cucumber/topic/8356/install-cucumber-plugin-in-intellij
 
 Como para entender mejor el concepto de ScreenPlay y como es su estructura, se dejan como base las siguiente lecturas:
 
