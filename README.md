@@ -16,7 +16,8 @@ Pre-requisitos del PC:
 
 Como para entender mejor el concepto de ScreenPlay y como es su estructura, se dejan como base las siguiente lecturas:
 
-Cucumber: https://cucumber.io/docs/gherkin/reference/ - Screnplay: https://medium.com/@marcela.soto/automatizaci%C3%B3n-de-pruebas-funcionales-serenity-bdd-screen-play-java-942be8217fca
+- Cucumber: https://cucumber.io/docs/gherkin/reference/ 
+- Screnplay: https://medium.com/@marcela.soto/automatizaci%C3%B3n-de-pruebas-funcionales-serenity-bdd-screen-play-java-942be8217fca
 
 
 TALLER
