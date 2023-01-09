@@ -26,7 +26,7 @@ Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/", realizar un
 
 Pre-requisito:
 
--Crear usuario
+  -Crear usuario
 
 Caso:
 1. Iniciar Sesion
