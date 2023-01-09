@@ -28,7 +28,7 @@ Pre-requisito: Crear usuario
 
 Caso:
 1. Iniciar Sesion
-2. Agregar dos productos al carrito (pueden ser dos iguales)
+2. Agregar mínimo dos productos al carrito (pueden ser dos iguales)
 3. Realizar Checkout de los productos
 4. validar que el total de los productos este de acuerdo con los agregados
 
