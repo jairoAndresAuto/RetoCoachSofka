@@ -24,9 +24,7 @@ TALLER
 
 Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/", realizar una automatización que inicie por el login de la página, después de haber creado previamente el usuario, despues se deben agregar los elementos al carrito de compras, realizar el checkout de los elementos y validar que la suma de los elementos agregados concuerde con el total arrojado en la página web. Las lecturas mencionadas anteriormente le ayudarán a desarrollar el ejercicio de una manera más simple.
 
-Pre-requisito:
-
-  -Crear usuario
+Pre-requisito: Crear usuario
 
 Caso:
 1. Iniciar Sesion
