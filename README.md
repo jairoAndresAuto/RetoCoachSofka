@@ -22,7 +22,7 @@ Para entender mejor el concepto de ScreenPlay y es su estructura, se deja como b
 
 TALLER
 
-Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/", realizar una automatización que inicie por el login de la pagina, despues de haber creado previamente el usuario, despues se deben agregar los elementos al carrito de compras, realizar el checkout de los elementos y se debe validar que la suma de los que se este sumando los totales de los productos agregados de manera correcta. Las lecturas mencionadas anteriormente le ayudarán a desarrollar el ejercicio de una manera más simple.
+Dada la siguiente URL: "https://www.advantageonlineshopping.com/#/", realizar una automatización que inicie por el login de la página, después de haber creado previamente el usuario, despues se deben agregar los elementos al carrito de compras, realizar el checkout de los elementos y validar que la suma de los elementos agregados concuerde con el total arrojado en la página web. Las lecturas mencionadas anteriormente le ayudarán a desarrollar el ejercicio de una manera más simple.
 
 Pre-requisito: Crear usuario
 
